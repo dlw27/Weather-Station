@@ -44,7 +44,7 @@
 	$HrsFromZ = 4;
 	$servername = "localhost";
 	$username = "root";
-	$password = "Ilgjt75%";
+	$password = "password";
 	$dbname = "Weather";
 
 
